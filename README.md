@@ -6,6 +6,7 @@ For this project, you’ll design the tables to hold the data from the CSV files
 
 ## Data Modeling
 Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. 
+![ERD](QuickDBD-ERD.png)
 
 ## Data Engineering
 - Use the provided information to create a table schema for each of the six CSV files.
